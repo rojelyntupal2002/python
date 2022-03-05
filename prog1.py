@@ -1,4 +1,4 @@
-1   a=1
-2   b=1
-3   c=a+b
-4   print(c)
+a=1
+b=1
+c=a+b
+print(c)
